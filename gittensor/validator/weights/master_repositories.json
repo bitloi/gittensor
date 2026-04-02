@@ -3888,7 +3888,7 @@
     "weight": 43.72
   },
   "latent-to/btcli": {
-    "additional_acceptable_branches": ["staging"],
+    "additional_acceptable_branches": ["staging", "feat/thewhaleking/*"],
     "tier": "Gold",
     "weight": 21.54
   },
